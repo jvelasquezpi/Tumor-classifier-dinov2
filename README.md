@@ -1,5 +1,7 @@
 # Brain Tumor Classifier using DINOv2 and PyTorch
 
+[![Open colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jvelasquezpi/Tumor-classifier-dinov2/blob/main/tumor_classifier_dinov2.ipynb)
+
 This project implements a brain tumor image classifier using the DINOv2 vision transformer and PyTorch. It classifies medical images using transfer learning with high performance and is implemented entirely in a Google Colab notebook.
 
 ---
@@ -87,4 +89,4 @@ Systems Engineer | AI Enthusiast
 
 ## 📄 License
 
-This project is open source under the [MIT License](LICENSE).
+This project is open source under the [MIT License](LICENSE.txt).
