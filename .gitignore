@@ -1,0 +1,18 @@
+# Archivos de entorno virtual
+env/
+venv/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Archivos temporales o personales
+*.pyc
+__pycache__/
+*.log
+
+# Google Colab
+*.ipynb_metadata
