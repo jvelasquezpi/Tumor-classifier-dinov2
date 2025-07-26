@@ -87,4 +87,4 @@ Systems Engineer | AI Enthusiast
 
 ## 📄 License
 
-This project is open source under the [MIT License](LICENSE).
+This project is open source under the [MIT License](LICENSE.txt).
